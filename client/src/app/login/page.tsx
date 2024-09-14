@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import personaje from "@/img/portada.png";
+import personaje from "@/img/personaje.png";
 import { UseAuthStore } from "@/store/AuthStore/AuthStore";
 import YellowButton from "../components/YellowButton/YellowButton";
 import { UseAuthStoreAdmin } from "@/store/AuthStoreAdmin/AuthStoreAdmin";
