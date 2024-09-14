@@ -1,0 +1,53 @@
+/* Mobile styles */
+@media screen and (max-width: 767px) {
+  .yellow-button-css {
+    box-shadow: 0px 5px #f18a10;
+    transition: box-shadow 0.3s ease-in-out;
+    -webkit-user-select: none; /* For Safari and Safari on iOS */
+    user-select: none; /* Deshabilitar selección de texto en dispositivos móviles */
+  }
+
+  .yellow-button-css:active {
+    border: 1px solid black;
+    background-color: #f18a10;
+    color: #fff;
+    filter: none;
+    box-shadow: 0px 5px #ecdf05;
+  }
+
+  .py-2:active {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+}
+
+/* Desktop (lg) styles */
+@media screen and (min-width: 992px) {
+  .yellow-button-css {
+    box-shadow: 0px 5px #f18a10;
+    transition: box-shadow 0.3s ease-in-out;
+    -webkit-user-select: none; /* For Safari and Safari on iOS */
+    user-select: none; /* Deshabilitar selección de texto en dispositivos de escritorio */
+  }
+
+  .yellow-button-css:hover {
+    background-color: #f18a10;
+    color: #fff;
+    filter: none;
+    box-shadow: 0px 5px #ecdf05;
+  }
+
+  .yellow-button-css:focus {
+    outline: none;
+  }
+
+  .yellow-button-css:active {
+    border: 1px solid black;
+    box-shadow: 0px 2px #ecdf05;
+  }
+
+  .py-2:active {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+}

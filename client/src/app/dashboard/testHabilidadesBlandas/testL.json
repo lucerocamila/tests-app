@@ -1,0 +1,472 @@
+{
+    "questions": [
+        {
+            "question": "Cuando presentas tu visión para la empresa, tú:",
+            "answers": [
+                {
+                    "answer": "Te centras en objetivos realistas",
+                    "score": 1
+                },
+                {
+                    "answer": "Inspiras con un ideal ambicioso",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te enfrentas a un problema, tú:",
+            "answers": [
+                {
+                    "answer": "Buscas soluciones convencionales y probadas",
+                    "score": 1
+                },
+                {
+                    "answer": "Exploras nuevas posibilidades y enfoques",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando trabajas con tu equipo, tú:",
+            "answers": [
+                {
+                    "answer": "Les asignas tareas específicas y les supervisas",
+                    "score": 1
+                },
+                {
+                    "answer": "Les das autonomía y les apoyas en su desarrollo",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te comunicas con tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Usas un lenguaje formal y técnico",
+                    "score": 1
+                },
+                {
+                    "answer": "Usas un lenguaje emotivo y motivador",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando tomas decisiones, tú:",
+            "answers": [
+                {
+                    "answer": "Te basas en tu propia experiencia y criterio",
+                    "score": 1
+                },
+                {
+                    "answer": "Te basas en los valores y principios compartidos",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando recibes una crítica, tú:",
+            "answers": [
+                {
+                    "answer": "Te defiendes y justificas tu actuación",
+                    "score": 1
+                },
+                {
+                    "answer": "Agradeces el feedback y aprendes de él",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando hay un cambio en la organización, tú:",
+            "answers": [
+                {
+                    "answer": "Te resistes y te aferras a lo conocido",
+                    "score": 1
+                },
+                {
+                    "answer": "Te adaptas y te anticipas a las oportunidades",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando reconoces el trabajo de tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Les felicitas por cumplir con sus obligaciones",
+                    "score": 1
+                },
+                {
+                    "answer": "Les elogias por superar sus expectativas",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te planteas un objetivo, tú:",
+            "answers": [
+                {
+                    "answer": "Lo defines de forma clara y medible",
+                    "score": 1
+                },
+                {
+                    "answer": "Lo defines de forma ambiciosa y retadora",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando interactúas con tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Mantienes una distancia profesional y respetuosa",
+                    "score": 1
+                },
+                {
+                    "answer": "Creas una relación personal y de confianza",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando lideras un proyecto, tú:",
+            "answers": [
+                {
+                    "answer": "Sigues un plan establecido y controlas los recursos",
+                    "score": 1
+                },
+                {
+                    "answer": "Creas una visión compartida y movilizas a las personas",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te comportas como líder, tú:",
+            "answers": [
+                {
+                    "answer": "Te ajustas a las normas y expectativas de tu rol",
+                    "score": 1
+                },
+                {
+                    "answer": "Te muestras auténtico y coherente con tus valores",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te enfrentas a un desafío, tú:",
+            "answers": [
+                {
+                    "answer": "Lo evitas o lo delegas en otros",
+                    "score": 1
+                },
+                {
+                    "answer": "Lo asumes o lo compartes con otros",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando motivas a tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Les ofreces incentivos extrínsecos",
+                    "score": 1
+                },
+                {
+                    "answer": "Les infundes valores intrínsecos",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando ejemplificas tu liderazgo, tú:",
+            "answers": [
+                {
+                    "answer": "Demuestras competencia y eficiencia",
+                    "score": 1
+                },
+                {
+                    "answer": "Demuestras ética y admiración",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando fomentas la innovación, tú:",
+            "answers": [
+                {
+                    "answer": "Aceptas ideas que se alinean con tu visión",
+                    "score": 1
+                },
+                {
+                    "answer": "Animas ideas que desafían tu visión",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando delegas responsabilidades, tú:",
+            "answers": [
+                {
+                    "answer": "Controlas el proceso y los resultados",
+                    "score": 1
+                },
+                {
+                    "answer": "Confías en el potencial y las capacidades",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando transmites tu misión, tú:",
+            "answers": [
+                {
+                    "answer": "La explicas con datos y argumentos",
+                    "score": 1
+                },
+                {
+                    "answer": "La cuentas con historias y metáforas",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te relacionas con tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Los tratas como subordinados",
+                    "score": 1
+                },
+                {
+                    "answer": "Los tratas como socios",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando estimulas el aprendizaje, tú:",
+            "answers": [
+                {
+                    "answer": "Enseñas lo que sabes y has hecho",
+                    "score": 1
+                },
+                {
+                    "answer": "Aprendes lo que no sabes y puedes hacer",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando das feedback a tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Señalas sus errores y debilidades",
+                    "score": 1
+                },
+                {
+                    "answer": "Reconoces sus éxitos y fortalezas",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando generas entusiasmo, tú:",
+            "answers": [
+                {
+                    "answer": "Celebras los éxitos alcanzados",
+                    "score": 1
+                },
+                {
+                    "answer": "Anticipas los desafíos próximos",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te posicionas como líder, tú:",
+            "answers": [
+                {
+                    "answer": "Te diferencias de los demás",
+                    "score": 1
+                },
+                {
+                    "answer": "Te identificas con los demás",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando promueves el pensamiento crítico, tú:",
+            "answers": [
+                {
+                    "answer": "Proporcionas soluciones y respuestas",
+                    "score": 1
+                },
+                {
+                    "answer": "Planteas preguntas y desafíos",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando gestionas el talento, tú:",
+            "answers": [
+                {
+                    "answer": "Lo asignas según las necesidades de la organización",
+                    "score": 1
+                },
+                {
+                    "answer": "Lo desarrollas según las aspiraciones de las personas",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando construyes tu visión, tú:",
+            "answers": [
+                {
+                    "answer": "La basas en un análisis presente",
+                    "score": 1
+                },
+                {
+                    "answer": "La basas en una proyección futura",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando influencias a tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Los convences con tu autoridad y poder",
+                    "score": 1
+                },
+                {
+                    "answer": "Los inspiras con tu ejemplo y carisma",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando impulsas la creatividad, tú:",
+            "answers": [
+                {
+                    "answer": "Valoras la eficiencia y la productividad",
+                    "score": 1
+                },
+                {
+                    "answer": "Valoras la diversidad y la originalidad",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando apoyas a tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Les ayudas a resolver sus problemas",
+                    "score": 1
+                },
+                {
+                    "answer": "Les ayudas a descubrir sus soluciones",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando lideras el cambio, tú:",
+            "answers": [
+                {
+                    "answer": "Lo gestionas con planes y recursos",
+                    "score": 1
+                },
+                {
+                    "answer": "Lo lideras con valores y propósitos",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando te defines como líder, tú:",
+            "answers": [
+                {
+                    "answer": "Te consideras un jefe o gerente",
+                    "score": 1
+                },
+                {
+                    "answer": "Te consideras un guía o mentor",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando facilitas el conocimiento, tú:",
+            "answers": [
+                {
+                    "answer": "Transmites información y datos",
+                    "score": 1
+                },
+                {
+                    "answer": "Generas reflexión y debate",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando valoras a tus seguidores, tú:",
+            "answers": [
+                {
+                    "answer": "Les das un feedback general y grupal",
+                    "score": 1
+                },
+                {
+                    "answer": "Les das un feedback específico e individual",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando defines tu propósito, tú:",
+            "answers": [
+                {
+                    "answer": "Lo alineas con los objetivos de la organización",
+                    "score": 1
+                },
+                {
+                    "answer": "Lo alineas con los valores de la sociedad",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando demuestras tu liderazgo, tú:",
+            "answers": [
+                {
+                    "answer": "Te centras en los resultados y el rendimiento",
+                    "score": 1
+                },
+                {
+                    "answer": "Te centras en las personas y el impacto",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "question": "Cuando potencias el crecimiento, tú:",
+            "answers": [
+                {
+                    "answer": "Buscas la mejora continua y la excelencia",
+                    "score": 1
+                },
+                {
+                    "answer": "Buscas la transformación radical y la innovación",
+                    "score": 5
+                }
+            ]
+        }
+    ]
+}

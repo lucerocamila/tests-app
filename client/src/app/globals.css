@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+.kode-mono {
+  font-family: "Kode Mono", monospace;
+  font-style: normal;
+
+}
+.global-spinner{
+  z-index: 9999;
+}
+ body {
+    background-color: #ffbc5d;
+ background-image: url(../img/brain-bg2.png);
+
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: contain;
+  }
+
+
+@media (min-width: 769px) {
+  body {
+    background-color: #ffbc5d;
+    background-image: url(../img/brain-bg.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: contain;
+  }
+}

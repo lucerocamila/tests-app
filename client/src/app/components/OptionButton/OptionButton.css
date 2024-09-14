@@ -1,0 +1,8 @@
+.checked_option {
+    transition: box-shadow 0.3s ease, background-color 0.3s ease; /* Agregamos una transición suave para la sombra y el color de fondo */
+  }
+  
+  .checked_option:active {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); 
+    background-color: rgba(85, 193, 0, 0.7); 
+  }
